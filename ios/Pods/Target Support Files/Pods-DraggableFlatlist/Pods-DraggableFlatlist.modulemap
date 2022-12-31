@@ -1,6 +1,0 @@
-module Pods_DraggableFlatlist {
-  umbrella header "Pods-DraggableFlatlist-umbrella.h"
-
-  export *
-  module * { export * }
-}
